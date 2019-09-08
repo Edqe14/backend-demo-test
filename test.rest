@@ -1,0 +1,9 @@
+POST http://backend-edqe.glitch.me/
+Request-Content-Token: ts+Z%Ucu[A~4 $(L[9EG
+User-Agent: B4ck3nd/1.0 (POST, REQ_x64) C4llB4ck3nd/1 4cc3ssCh40Z/1.0
+
+###
+POST http://backend-edqe.glitch.me/psd
+
+### Cant use GET method/Only post
+GET http://backend-edqe.glitch.me/
